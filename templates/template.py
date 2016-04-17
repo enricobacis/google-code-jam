@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 
 # Google Code Jam 20XX - YY Round - Problem ZZ
 
